@@ -26,11 +26,6 @@ Run
 mill first.run
 ```
 
-Run
-```
-mill first.run
-```
-
 
 Show git head commit
 ```
