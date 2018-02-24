@@ -30,3 +30,9 @@ Run
 ```
 mill first.run
 ```
+
+
+Show git head commit
+```
+mill first.gitHead()
+```
